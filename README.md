@@ -72,7 +72,7 @@ This repository is designed for:
 ```text
 Python-Basics/
 │
-├── STTP_Python_Basics.ipynb
+├── Python_Basics.ipynb
 ├── Data Structures.ipynb
 ├── Lists.ipynb
 ├── Strings.ipynb
